@@ -1,0 +1,23 @@
+.reviewContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  width: cover;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.review-block {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 500px;
+  background-color: #ffffff;
+}
+
+.each-review {
+  /* max-width: 400px;
+  text-align: center; */
+}
